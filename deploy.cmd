@@ -5,7 +5,7 @@
 :: Version: 1.0.17
 :: ----------------------
 
-:: Prerequisites
+:: Prerequisites.
 :: -------------
 
 :: Verify node.js installed
